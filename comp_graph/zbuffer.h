@@ -47,7 +47,6 @@ class zbuffer
 		int j = 0;
 		p0->x = x;
 		p0->y = y;
-
 		for (int i = 0; i < p->point_number; i++)
 		{
 			j = i + 1;
